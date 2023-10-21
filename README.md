@@ -2,7 +2,7 @@
 [![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
 
 
-       Hi, I’m George
+       Hi, I’m Mikhail Koshelev!
        
 
 
@@ -14,7 +14,7 @@
   
   ##  QA Engineer
   
-- 🌱 I’m working now in TEDU (QA)
+- 🌱 QA with a sense of humor and a Friday release tolerance. Born in the USSR. A professional snowboarder! In bug localization, just like Jason Statham.
 
 - 💞️ I’m currently learning QA Automation
 
