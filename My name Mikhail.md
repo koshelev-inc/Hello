@@ -33,7 +33,7 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:lagosh@inbox.ru)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/BrowserNeo)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/browserneo)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:Koshelevms@mail.ru)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/misha_qa)
 
 
 ###
@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/koshelev-inc/Hello/blob/main/steck/github-contribution-grid-snake-dark.svg)
